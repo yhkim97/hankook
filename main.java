@@ -1,5 +1,5 @@
 int sum = 0;
-for(int i;i<=100;i++)
+for(int i=1 ;i<=100;i++)
  	sum = sum+i;
 	// 중간 값 확인
 	System.out.println(sum);
